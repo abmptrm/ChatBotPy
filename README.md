@@ -1,2 +1,2 @@
 # ChatBotPy
-ChatBotPy - Bot Indonesia
+ChatBotPy simple python
